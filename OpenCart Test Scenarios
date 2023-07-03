@@ -1,40 +1,40 @@
-Project Name	OpenCart (Frontend)	
-Client	OpenCart	
-Reference Document	FRS	
-Created By	Cristina C.	
-Creation Date	30.05.2023	
-Approval Date	DD-MM-YYYY	
-		
-		
-Test Scenario ID	 Reference	Test Scenario Description
-TS_001	FRS	Validate the working of Register Account functionality
-TS_002	FRS	Validate the working of Login functionality
-TS_003	FRS	Validate the working of Logout functionality
-TS_004	FRS	Validate the working of Forgot Password functionality
-TS_005	FRS	Validate the working of Search functionality
-TS_006	FRS	Validate the working of Product Compare functionality
-TS_007	FRS	Validate the Product Display Page functionality for the different types of Products
-TS_008	FRS	Validate the working of 'Add to Cart' functionality
-TS_009	FRS	Validate the working of 'Wish List' functionality
-TS_010	FRS	Validate the working of 'Shopping Cart' functionality
-TS_011	FRS	Validate the working of Home Page functionality
-TS_012	FRS	Validate the working of Checkout functionality
-TS_013	FRS	Validate the My Account functionality
-TS_014	FRS	Validate the working of My Account > Account Information functionality
-TS_015	FRS	Validate the working of My Account > 'Change Password' functionality
-TS_016	FRS	Validate the working of My Account > 'Address Book' functionality
-TS_017	FRS	Validate the working of My Orders > 'Order History' functionality
-TS_018	FRS	Validate the working of My Orders > 'Order Information' functionality
-TS_019	FRS	Validate the working of My Orders > 'Product Returns' functionality
-TS_020	FRS	Validate the working of My Orders > 'Downloads' functionality
-TS_021	FRS	Validate the working of My Orders > 'Reward Points' functionality
-TS_022	FRS	Validate the working of My Orders > 'Return Requests' functionality
-TS_023	FRS	Validate the working of My Orders > 'Your Transactions' functionality
-TS_024	FRS	Validate the working of My Orders > 'Recurring Payments' functionality
-TS_025	FRS	Validate the working of 'Affiliate' functionality
-TS_026	FRS	Validate the working of 'Newsletter' functionality
-TS_027	FRS	Validate the working of 'Contact Us' page functionality
-TS_028	FRS	Validate the working of 'Gift Certificate' page functionality
-TS_029	FRS	Validate the working of 'Special Offers' page functionality
-TS_030	FRS	Validate the working of 'Header' options, 'Menu' options and 'Footer' options
-TS_031	FRS	Validate the complete Application functionality for different currencies
+Project Name	OpenCart Test Scenarios (FrontEnd)
+Client	OpenCart 
+Reference Document	FRS 
+Created By	Cristina C.
+Creation Date	30.05.2023
+Approval Date	dd-mm-yyyy
+	
+	
+Test Scenario ID	Test Scenario Description
+TS_001	Validate the working of Register Account functionality
+TS_002	Validate the working of Login functionality
+TS_003	Validate the working of Logout functionality
+TS_004	Validate the working of Forgot Password functionality
+TS_005	Validate the working of Search functionality
+TS_006	Validate the working of Product Compare functionality
+TS_007	Validate the Product Display Page functionality for the different types of Products
+TS_008	Validate the working of 'Add to Cart' functionality
+TS_009	Validate the working of 'Wish List' functionality
+TS_010	Validate the working of 'Shopping Cart' functionality
+TS_011	Validate the working of Home Page functionality
+TS_012	Validate the working of Checkout functionality
+TS_013	Validate the My Account functionality
+TS_014	Validate the working of My Account > Account Information functionality
+TS_015	Validate the working of My Account > 'Change Password' functionality
+TS_016	Validate the working of My Account > 'Address Book' functionality
+TS_017	Validate the working of My Orders > 'Order History' functionality
+TS_018	Validate the working of My Orders > 'Order Information' functionality
+TS_019	Validate the working of My Orders > 'Product Returns' functionality
+TS_020	Validate the working of My Orders > 'Downloads' functionality
+TS_021	Validate the working of My Orders > 'Reward Points' functionality
+TS_022	Validate the working of My Orders > 'Return Requests' functionality
+TS_023	Validate the working of My Orders > 'Your Transactions' functionality
+TS_024	Validate the working of My Orders > 'Recurring Payments' functionality
+TS_025	Validate the working of 'Affiliate' functionality
+TS_026	Validate the working of 'Newsletter' functionality
+TS_027	Validate the working of 'Contact Us' page functionality
+TS_028	Validate the working of 'Gift Certificate' page functionality
+TS_029	Validate the working of 'Special Offers' page functionality
+TS_030	Validate the working of 'Header' options, 'Menu' options and 'Footer' options
+TS_031	Validate the complete Application functionality for different currencies
